@@ -21,7 +21,7 @@ of ``m_a`` by ``m_b``.
     >>> m_b = m_a
     >>> print(lazy_matrix_mul(m_a, m_b))
     [[ 7 10]
-    [15 22]]
+     [15 22]]
 
 ::
 
